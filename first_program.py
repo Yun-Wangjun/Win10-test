@@ -1,4 +1,4 @@
 def  sayhi(name):
-    print('hello',name)
-
+    print('hello,world',name)
+    print('hehe')
 
